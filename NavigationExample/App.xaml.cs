@@ -22,6 +22,9 @@ namespace NavigationExample
     /// </summary>
     sealed partial class App : Application
     {
+        //omat tärkeät ominaisuudet ja metodit
+
+
         /// <summary>
         /// Initializes the singleton application object.  This is the first line of authored code
         /// executed, and as such is the logical equivalent of main() or WinMain().
